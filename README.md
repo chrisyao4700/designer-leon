@@ -28,6 +28,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-To contact the builder, please send email to chrisyao900908@gmail.com.
+
 <img src="cy.png" width="100" height="100"/>
+To contact the builder, please send email to chrisyao900908@gmail.com.
+
 
